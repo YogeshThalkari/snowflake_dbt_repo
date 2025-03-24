@@ -1,3 +1,10 @@
+sources:
+  - name: "Snowflake Source"
+    database: DB_ECOMM
+    schema: SC_ECOMM
+    tables:
+      - name: USERS
+
 models:
   - name: "yogesh"
     config:
