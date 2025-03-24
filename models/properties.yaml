@@ -1,0 +1,4 @@
+models:
+  -name: "yogesh"
+    config:
+      materialized: 'view'
