@@ -1,4 +1,4 @@
 models:
-  -name: "yogesh"
+  - name: "yogesh"
     config:
       materialized: 'view'
